@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-enterprise-workbook\bs-starter-04\Day04Practice.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_Day04Practice.Tests
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-enterprise-workbook\bs-starter-04\Day04Practice.Tests\obj\Debug\net10.0\Day04Practice.Tests.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-enterprise-workbook\bs-starter-04\Day04Practice.Tests\obj\Debug\net10.0\Day04Practice.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-enterprise-workbook\bs-starter-04\Day04Practice.Tests\obj\Debug\net10.0\Day04Practice.Tests.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-enterprise-workbook\bs-starter-04\Day04Practice.Tests\obj\Debug\net10.0\Day04Practice.Tests.AssemblyInfo.cs
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-enterprise-workbook\bs-starter-04\Day04Practice.Tests\obj\Debug\net10.0\Day04Practice.Tests.csproj.CoreCompileInputs.cache

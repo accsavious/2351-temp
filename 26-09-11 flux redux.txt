@@ -1,0 +1,21 @@
+state challenges
+
+State loss on navigation - Values dont persist between pages
+
+Prop Drilling - Passing parameter through multiple components
+adds tight coupling and mantainability problems
+
+Cross pomponent sync
+state updates dont reflect across all components
+
+Solution
+Flux/Redux pattern
+1 the component dispatches an action
+2 the reducer takes the state + action and returns the new state
+3 store acts as a single source of truth
+4 subscribed components to the store and re-render
+
+Action -> event
+Reducer -> event handler that returns state
+store -> singleton that holds data
+Subscribe -> Event subscription

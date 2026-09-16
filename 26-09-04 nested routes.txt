@@ -1,0 +1,33 @@
+Nested routs
+
+website.com/{org}/{repo}/tree/{branch}/{path}
+e
+
+Nested route heirarchy:
+layout chains solve section level nav
+MainLayout wraps AdminLayout
+
+Home
+Admin subfolder references the adminlayout
+
+LAYOUTS
+
+@inherits LayoutComponentBase
+tells the component it can be a layout
+
+@Layout directive
+Tells the page what component it will be nested in
+You can import a layout for a set of pages
+
+Declare the route
+@page "/" for the home route
+
+@page "/mypage/thislocation" for specified rout
+
+@page "/mypage/product/{prodId:int}" for parameter
+Then you can get that parameter value with
+
+@code {
+	[Parameter]
+	public int ProdId { get; set; }
+}

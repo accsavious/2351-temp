@@ -1,0 +1,46 @@
+Setting Up Fluxor
+NuGet: Install Fluxor.Blazor.Web
+Program.cs: builder.Services.AddFluxor(o => o.ScanAssemblies(...)
+_imports.razor: Add Fluxor @using statements
+App.razor: Add <StoreInitializer />
+
+
+Record vs classes
+
+Class		Record
+get; set;	get; init;
+Manual clone	with expression
+
+State, Actions, Reducers
+State - immutable record with init properties
+Actions - record types describing what happened
+
+parameterless for signals
+record IncrementCounterAction
+With data
+record SetCounterAction(int NewCount)
+
+Reducer - static pure functions with [ReducerMethod]
+Take current state, return new state
+no side effects, no async, no DI
+
+Review
+IDispatcher = publisher?
+Action record = data carrier?
+Reducer = returns New state?
+
+Event handler
+count++; --
+
+Reducer
+returns state with { Count = state.count + 1 };
+
+
+
+AI pre-talk
+Other students use claude
+Gemini
+
+Other AI: local llm
+Deep Seek 2.7
+

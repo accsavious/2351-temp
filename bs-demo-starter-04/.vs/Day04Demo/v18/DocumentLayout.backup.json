@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{249A2E5D-A19B-4989-AC04-E8A53565971E}|Day04Demo.Tests\\Day04Demo.Tests.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo.tests\\counterreducertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{249A2E5D-A19B-4989-AC04-E8A53565971E}|Day04Demo.Tests\\Day04Demo.Tests.csproj|solutionrelative:day04demo.tests\\counterreducertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CounterReducerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo.Tests\\CounterReducerTests.cs",
-              "RelativeDocumentMoniker": "Day04Demo.Tests\\CounterReducerTests.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo.Tests\\CounterReducerTests.cs",
-              "RelativeToolTip": "Day04Demo.Tests\\CounterReducerTests.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwDcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T15:32:26.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CounterState.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
@@ -68,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CounterFeature.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
@@ -81,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CounterReducers.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
               "RelativeToolTip": "Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T14:37:10.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CounterActions.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
@@ -107,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Day04Demo\\Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "Day04Demo\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-14T15:06:33.553Z",
               "EditorCaption": ""

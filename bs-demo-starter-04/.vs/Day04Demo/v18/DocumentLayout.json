@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\",
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\bs-demo-starter-04\\day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\bs-demo-starter-04\\day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290EA64E-ABDE-4AA8-9D87-FF5088EBEC39}|Day04Demo\\Day04Demo.csproj|solutionrelative:day04demo\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,61 +40,57 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CounterState.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
               "RelativeToolTip": "Day04Demo\\Features\\Counter\\Store\\CounterState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T14:40:26.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T14:40:26.618Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CounterFeature.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
               "RelativeToolTip": "Day04Demo\\Features\\Counter\\Store\\CounterFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T15:15:34.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T15:15:34.966Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CounterReducers.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
               "RelativeToolTip": "Day04Demo\\Features\\Counter\\Store\\CounterReducers.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwCoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T14:37:10.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T14:37:10.77Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CounterActions.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
               "RelativeDocumentMoniker": "Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
               "RelativeToolTip": "Day04Demo\\Features\\Counter\\Store\\CounterActions.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T14:35:08.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T14:35:08.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Components\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Day04Demo\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-demo-starter-04\\Day04Demo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "Day04Demo\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

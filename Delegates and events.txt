@@ -1,0 +1,24 @@
+Delegates:
+A delegate is a special method that can be used to create delegate instances of another
+method
+
+public delegate void NotifyUser(string message); <-- this is a delegate
+	 ^	 ^		^
+The method must be set a delegate
+This delegate method has a SHAPE
+its SHAPE is determined by its return and argument types: void and string
+
+Any other method with this SHAPE can be used by this method to make a delegate instance
+
+example void string SHAPEd method:
+public void DisplayMessage(string message)
+{
+    Console.WriteLine($"Notification: {message}");
+}
+
+To create a delegate instance:
+NotifyUser notify = DisplayMessage; 
+
+This creates a delegate instance named notify
+
+notify("hello world") will behave as DisplayMessage("hello world") would

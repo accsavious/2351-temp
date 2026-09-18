@@ -1,0 +1,12 @@
+NavigationManager
+
+This is a module that handles programmatic navigation
+First you must inject the manager
+@inject NavigationManager Navigation
+
+Then you can call it in an event
+    private void GoToPreferences()
+    {
+	Navigation.NavigateTo("/path/to/yoururl", forceLoad: true/false,
+		replace: true/false)
+    }

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLNL3IFFwIw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day07Demo\\Day07Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\bysresults\\1.2.3\\bysresults.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sean\\.nuget\\packages\\fluxor\\6.0.0\\fluxor.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sean\\.nuget\\packages\\fluxor.blazor.web\\6.0.0\\fluxor.blazor.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

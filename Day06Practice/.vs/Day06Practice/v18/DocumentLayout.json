@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5349B668-490A-4EBA-B5DC-09188FA1E15B}|Day06Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day06practice\\components\\pages\\wishlistcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5349B668-490A-4EBA-B5DC-09188FA1E15B}|Day06Practice.csproj|solutionrelative:components\\pages\\wishlistcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5349B668-490A-4EBA-B5DC-09188FA1E15B}|Day06Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day06practice\\components\\pages\\orderscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5349B668-490A-4EBA-B5DC-09188FA1E15B}|Day06Practice.csproj|solutionrelative:components\\pages\\orderscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5349B668-490A-4EBA-B5DC-09188FA1E15B}|Day06Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day06practice\\components\\pages\\membershipcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5349B668-490A-4EBA-B5DC-09188FA1E15B}|Day06Practice.csproj|solutionrelative:components\\pages\\membershipcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WishlistCard.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\Components\\Pages\\WishlistCard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\WishlistCard.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\Components\\Pages\\WishlistCard.razor",
+              "RelativeToolTip": "Components\\Pages\\WishlistCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T15:32:59.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersCard.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\Components\\Pages\\OrdersCard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\OrdersCard.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\Components\\Pages\\OrdersCard.razor",
+              "RelativeToolTip": "Components\\Pages\\OrdersCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T15:32:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembershipCard.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\Components\\Pages\\MembershipCard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\MembershipCard.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day06Practice\\Components\\Pages\\MembershipCard.razor",
+              "RelativeToolTip": "Components\\Pages\\MembershipCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T15:31:16.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -18,10 +18,21 @@
         <h5 class="card-title mb-0">Membership</h5>
     </div>
     <div class="card-body text-center">
-        <p class="display-4 text-info">
-            <!-- TODO: Replace with @AccountState.Value.MembershipTier -->
-            @AccountState.Value.MembershipTier
-        </p>
+        @if (AccountState.Value.IsLoading)
+        {
+            <p class="text-muted">Loading...</p>
+        }
+        else if (AccountState.Value.ErrorMessage is not null)
+        {
+            <p class="text-danger">@AccountState.Value.ErrorMessage</p>
+        }
+        else
+        {
+            <p class="display-4 text-info">
+                <!-- TODO: Replace with @AccountState.Value.MembershipTier -->
+                @AccountState.Value.MembershipTier
+            </p>
+        }
         <p class="text-muted">membership level</p>
     </div>
 </div>

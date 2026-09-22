@@ -18,10 +18,21 @@
         <h5 class="card-title mb-0">Wishlist</h5>
     </div>
     <div class="card-body text-center">
-        <p class="display-4 text-success">
-            <!-- TODO: Replace with @AccountState.Value.WishlistCount -->
-            @AccountState.Value.WishlistCount
-        </p>
+        @if (AccountState.Value.IsLoading)
+        {
+            <p class="text-muted">Loading...</p>
+        }
+        else if (AccountState.Value.ErrorMessage is not null)
+        {
+            <p class="text-danger">@AccountState.Value.ErrorMessage</p>
+        }
+        else
+        {
+            <p class="display-4 text-success">
+                <!-- TODO: Replace with @AccountState.Value.WishlistCount -->
+                @AccountState.Value.WishlistCount
+            </p>
+        }
         <p class="text-muted">saved items</p>
     </div>
 </div>

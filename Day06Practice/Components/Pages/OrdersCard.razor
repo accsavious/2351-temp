@@ -18,10 +18,20 @@
         <h5 class="card-title mb-0">Orders</h5>
     </div>
     <div class="card-body text-center">
-        <p class="display-4 text-primary">
-            <!-- TODO: Replace with @AccountState.Value.OrderCount -->
-            @AccountState.Value.OrderCount
-        </p>
+        @if (AccountState.Value.IsLoading)
+        {
+            <p class="text-muted">Loading...</p>
+        }    
+            else if (AccountState.Value.ErrorMessage is not null)
+        {
+            <p class="text-danger">@AccountState.Value.ErrorMessage</p>
+        } else
+        {
+            <p class="display-4 text-primary">
+                <!-- TODO: Replace with @AccountState.Value.OrderCount -->
+                @AccountState.Value.OrderCount
+            </p>  
+        }
         <p class="text-muted">orders placed</p>
     </div>
 </div>

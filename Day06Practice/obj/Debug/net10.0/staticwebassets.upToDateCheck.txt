@@ -1,0 +1,6 @@
+wwwroot\app.css
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\build\..\_framework\blazor.web.js
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\build\..\_framework\blazor.server.js
+C:\Users\Sean\Documents\2026FallNait\SDEV 2351\2351-temp\Day06Practice\wwwroot\app.css
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\_framework\blazor.web.js
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\_framework\blazor.server.js

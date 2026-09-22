@@ -1,3 +1,5 @@
+using BYSResults;
+
 namespace Day06Practice.Services;
 
 /// <summary>
@@ -23,15 +25,15 @@ public class ProductService : IProductService
         new Product(3, "Mechanical Keyboard", 89.99m)
     ];
 
-    public async Task<Product> GetByIdAsync(int id)
+    public async Task<Result<Product>> GetByIdAsync(int id)
     {
         await Task.Delay(100); // Simulate async operation
-
+        var result = new Result<Product>();
         // TODO (Practice 2): Replace this validation with Result<T>
         // Change return type to Task<Result<Product>>
         // Replace 'throw' with result.AddError(new Error(...))
         if (id <= 0)
-            throw new ArgumentException("Product ID must be greater than zero");
+            result.AddError(new Error("Validation", "Product ID must be greater than zero"));
 
         var product = _products.FirstOrDefault(p => p.Id == id);
 

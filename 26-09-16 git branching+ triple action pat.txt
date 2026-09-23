@@ -1,0 +1,22 @@
+Git branching
+on a local git repo
+use
+git checkout -n feature/yourbranch (to create your branch locally)
+git add/git commit to make changes
+git push -u origin feature/yourbranch (to push your branch up to the remote)
+this should set up the branch on github
+
+
+
+triple action pattern
+EffectMethod
+component fires an action
+
+Service components
+IThingService 
+public interface IThingService
+{
+	Task<List<Thing>> TheFunctionThatDoesStuffAsync();
+}
+ThingService (Does the thing)
+Thing (the model)

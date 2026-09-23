@@ -1476,11 +1476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-starter-04\\Day04Practice.Tests\\Day04Practice.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice.Tests\\Day04Practice.Tests.csproj",
       "projectName": "Day04Practice.Tests",
-      "projectPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-starter-04\\Day04Practice.Tests\\Day04Practice.Tests.csproj",
+      "projectPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice.Tests\\Day04Practice.Tests.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-starter-04\\Day04Practice.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1503,8 +1503,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-starter-04\\Day04Practice\\Day04Practice.csproj": {
-              "projectPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-enterprise-workbook\\bs-starter-04\\Day04Practice\\Day04Practice.csproj"
+            "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Day04Practice.csproj": {
+              "projectPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Day04Practice.csproj"
             }
           }
         }

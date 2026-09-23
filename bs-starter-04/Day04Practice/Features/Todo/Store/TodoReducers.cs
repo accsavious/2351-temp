@@ -2,6 +2,7 @@ namespace Day04Practice.Features.Todo.Store;
 
 using Day04Practice.Features.Todo.Models;
 using Fluxor;
+using System.Net.NetworkInformation;
 
 public static class TodoReducers
 {
@@ -30,4 +31,25 @@ public static class TodoReducers
             .ToList();
         return state with { Items = updatedItems };
     }
+
+    [ReducerMethod]
+    public static TodoState ReduceAddTodoAction(
+        TodoState state,
+        AddTodoAction action
+        )
+    {
+        int id = state.Items.Count > 0 ? state.Items.Max(t => t.Id) + 1 : 1;
+        TodoItem newTodo = new TodoItem(id, action.Title, false);
+        return state with { Items = [..state.Items, newTodo] };
+
+    }
+
+    public static TodoState ReduceRemoveTodoAction(
+        TodoState state,
+        RemoveTodoAction action,
+        )
+    {
+        return state with { Items =  }
+    }
+
 }

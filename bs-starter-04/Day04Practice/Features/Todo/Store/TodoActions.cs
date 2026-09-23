@@ -11,3 +11,7 @@ namespace Day04Practice.Features.Todo.Store;
 // worked example for immutable list replacement: read it, then apply the same shape to
 // Remove. See TodoReducers.ReduceToggleTodoAction.
 public record ToggleTodoAction(int Id);
+
+public record AddTodoAction(string Title);
+
+public record RemoveTodoAction(int Id);

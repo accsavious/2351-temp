@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMotLds7iNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Day02Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

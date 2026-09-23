@@ -1,0 +1,21 @@
+centralized vs local desicion framework
+central survives navigation, shared across components
+but needs time-travel debug
+
+If it needs to persist across pages, use centralized
+
+BYSResults API
+
+Methods
+.AddError(new Error("Category", "Message"))
+.WithValue(data)
+.IsSuccess()
+.IsFailure()
+.Value()
+.Errors()
+
+Var results = new Result<>();
+	if (firstName == "")
+	results.Errors.AddError(new Error("missing info", "FIV is required"))
+
+

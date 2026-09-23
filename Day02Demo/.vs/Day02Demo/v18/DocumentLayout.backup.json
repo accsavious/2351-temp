@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\demos\\day02demo\\components\\pages\\checkout\\checkoutconfirm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\checkout\\checkoutconfirm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\demos\\day02demo\\components\\pages\\checkout\\checkoutpayment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\checkout\\checkoutpayment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\demos\\day02demo\\components\\pages\\checkout\\checkoutshipping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\checkout\\checkoutshipping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\demos\\day02demo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\demos\\day02demo\\components\\pages\\productdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\productdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutConfirm.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "RelativeToolTip": "Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-09T14:39:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutPayment.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "RelativeToolTip": "Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-09T14:35:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutShipping.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "RelativeToolTip": "Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-09T14:33:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetail.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\ProductDetail.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProductDetail.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\ProductDetail.razor",
+              "RelativeToolTip": "Components\\Pages\\ProductDetail.razor",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-09T14:23:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\Demos\\Day02Demo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwC0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-09T14:18:20.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

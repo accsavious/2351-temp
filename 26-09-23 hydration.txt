@@ -1,0 +1,11 @@
+How to make stuff persist?
+localStorage - stays till you explicitly clear it
+sessionStorage - stays till you close the tab
+
+Blazored.LocalStorage is a NuGet package that takes care of this 
+
+register ILocalStorageService via DI
+three methods 
+SetItemAsync<T>(key, value)
+GetItemAsync<T>(key)
+RemoveItemAsync(key)

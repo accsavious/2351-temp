@@ -2,6 +2,10 @@
 @* TODO: Add @inherits FluxorComponent *@
 @* TODO: Add @inject IState<Day04Practice.Features.Todo.Store.TodoState> TodoState *@
 @* TODO: Add @inject IDispatcher Dispatcher *@
+@using Fluxor
+@inherits Fluxor.Blazor.Web.Components.FluxorComponent
+@inject IState<Day04Practice.Features.Todo.Store.TodoState> TodoState
+@inject IDispatcher Dispatcher
 
 <PageTitle>Practice 2: Todo List</PageTitle>
 
@@ -30,7 +34,7 @@
 </div>
 
 @* When wired, render the todo list like this: *@
-@*
+
 <ul class="list-group">
     @foreach (var item in TodoState.Value.Items)
     {
@@ -49,7 +53,7 @@
         </li>
     }
 </ul>
-*@
+
 
 @code {
     private string newTodoTitle = string.Empty;
@@ -58,19 +62,18 @@
     {
         if (!string.IsNullOrWhiteSpace(newTodoTitle))
         {
-            // TODO: Dispatcher.Dispatch(new AddTodoAction(newTodoTitle));
-            newTodoTitle = string.Empty;
+            Dispatcher.Dispatch(new AddTodoAction(newTodoTitle));
         }
     }
 
     private void RemoveTodo(int id)
     {
-        // TODO: Dispatcher.Dispatch(new RemoveTodoAction(id));
+        Dispatcher.Dispatch(new RemoveTodoAction(id));
     }
 
     private void ToggleTodo(int id)
     {
-        // TODO: Dispatcher.Dispatch(new ToggleTodoAction(id));
+        Dispatcher.Dispatch(new ToggleTodoAction(id));
     }
 
     private void HandleKeyDown(KeyboardEventArgs e)

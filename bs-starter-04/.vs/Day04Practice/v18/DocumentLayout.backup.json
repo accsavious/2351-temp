@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\todo\\store\\todoreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\todo\\store\\todoreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\counter\\store\\counterreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477A025E-7EA9-4D96-A51A-D7D1EE2548DA}|Day04Practice.Tests\\Day04Practice.Tests.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice.tests\\counterreducertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{477A025E-7EA9-4D96-A51A-D7D1EE2548DA}|Day04Practice.Tests\\Day04Practice.Tests.csproj|solutionrelative:day04practice.tests\\counterreducertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\todo\\store\\todofeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\todo\\store\\todofeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\counter\\store\\counteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\todo\\store\\todostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\todo\\store\\todostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\counter\\store\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\bs-starter-04\\day04practice\\features\\todo\\store\\todoactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD52A43-8D6C-43B4-B474-E9BB6C8A3564}|Day04Practice\\Day04Practice.csproj|solutionrelative:day04practice\\features\\todo\\store\\todoactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,16 +33,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 236,
+          "DockedWidth": 252,
           "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
@@ -54,73 +54,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Day04Practice\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "Day04Practice\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-16T15:17:34.48Z",
+              "DocumentIndex": 3,
+              "Title": "TodoState.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoState.cs",
+              "RelativeDocumentMoniker": "Day04Practice\\Features\\Todo\\Store\\TodoState.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoState.cs",
+              "RelativeToolTip": "Day04Practice\\Features\\Todo\\Store\\TodoState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T15:52:42.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CounterReducers.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Counter\\Store\\CounterReducers.cs",
-              "RelativeDocumentMoniker": "Day04Practice\\Features\\Counter\\Store\\CounterReducers.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Counter\\Store\\CounterReducers.cs",
-              "RelativeToolTip": "Day04Practice\\Features\\Counter\\Store\\CounterReducers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T15:03:09.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CounterActions.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Counter\\Store\\CounterActions.cs",
-              "RelativeDocumentMoniker": "Day04Practice\\Features\\Counter\\Store\\CounterActions.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Counter\\Store\\CounterActions.cs",
-              "RelativeToolTip": "Day04Practice\\Features\\Counter\\Store\\CounterActions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T14:33:54.165Z",
+              "Title": "Todo.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Components\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "Day04Practice\\Components\\Pages\\Todo.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Components\\Pages\\Todo.razor",
+              "RelativeToolTip": "Day04Practice\\Components\\Pages\\Todo.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T15:47:20.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CounterState.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Counter\\Store\\CounterState.cs",
-              "RelativeDocumentMoniker": "Day04Practice\\Features\\Counter\\Store\\CounterState.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Counter\\Store\\CounterState.cs",
-              "RelativeToolTip": "Day04Practice\\Features\\Counter\\Store\\CounterState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T14:32:54.451Z",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Day04Practice\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Components\\_Imports.razor",
+              "RelativeToolTip": "Day04Practice\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T18:51:01.927Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 164,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 219,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CounterReducerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice.Tests\\CounterReducerTests.cs",
-              "RelativeDocumentMoniker": "Day04Practice.Tests\\CounterReducerTests.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice.Tests\\CounterReducerTests.cs",
-              "RelativeToolTip": "Day04Practice.Tests\\CounterReducerTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAmAAAAAAAAAA==",
+              "Title": "TodoFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoFeature.cs",
+              "RelativeDocumentMoniker": "Day04Practice\\Features\\Todo\\Store\\TodoFeature.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoFeature.cs",
+              "RelativeToolTip": "Day04Practice\\Features\\Todo\\Store\\TodoFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T15:01:58.746Z",
+              "WhenOpened": "2026-09-16T15:49:06.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoReducers.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoReducers.cs",
+              "RelativeDocumentMoniker": "Day04Practice\\Features\\Todo\\Store\\TodoReducers.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoReducers.cs",
+              "RelativeToolTip": "Day04Practice\\Features\\Todo\\Store\\TodoReducers.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvy0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T15:49:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoActions.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoActions.cs",
+              "RelativeDocumentMoniker": "Day04Practice\\Features\\Todo\\Store\\TodoActions.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-starter-04\\Day04Practice\\Features\\Todo\\Store\\TodoActions.cs",
+              "RelativeToolTip": "Day04Practice\\Features\\Todo\\Store\\TodoActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T15:47:53.403Z",
               "EditorCaption": ""
             }
           ]

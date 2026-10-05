@@ -43,13 +43,16 @@ public static class TodoReducers
         return state with { Items = [..state.Items, newTodo] };
 
     }
-
+    [ReducerMethod]
     public static TodoState ReduceRemoveTodoAction(
         TodoState state,
-        RemoveTodoAction action,
+        RemoveTodoAction action
         )
     {
-        return state with { Items =  }
+        var updatedItems = state.Items
+            .Where(i => i.Id != action.Id)
+            .ToList();
+        return state with { Items = updatedItems };
     }
 
 }

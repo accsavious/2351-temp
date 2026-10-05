@@ -1,0 +1,34 @@
+Authentication Who are you? verifies identity
+
+Authorization What can you do? verifies permission
+OAuth 2.0 handles authorization
+OIDC adds authentication 
+
+Open ID Connect
+Your service communicates with an identity provider
+
+Like how brightspace logs you in with your microsoft acount.
+
+ID Token identity of the user to the app
+Access token, authorizes the app to call APIs
+ID is who you are
+Access is what the app can access 
+
+JWT has
+HEADER
+The algorithm + token type
+Payload
+claims about the user
+THIS can be decoded - never put secrets in it
+Signature
+Verification - IdP signs with private key, app verifies with
+public key
+
+ROLE vs CLAIMS
+Roles only: Manager-Electronics
+You get a load of roles
+
+Role + Claim
+role: manager, department: electronics
+reduces the number of roles required
+Way more maintainable

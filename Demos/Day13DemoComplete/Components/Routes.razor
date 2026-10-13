@@ -1,0 +1,23 @@
+@* CascadingAuthenticationState wraps the whole router so every component below it
+   can read the current user (via a [CascadingParameter] Task<AuthenticationState>),
+   without auth state being passed down manually -- the cascading-parameter idea from
+   SDEV 2301. AddCascadingAuthenticationState() in Program.cs supplies the same value,
+   so this app would still work with either one removed. *@
+<CascadingAuthenticationState>
+    <Router AppAssembly="typeof(Program).Assembly">
+        <Found Context="routeData">
+            @* AuthorizeRouteView, NOT the plain RouteView: in an INTERACTIVE app it is
+               the variant that honours [Authorize] during client-side navigation and
+               shows the Authorizing template while the auth state resolves. These pages
+               are statically rendered, so that template never appears here. Nothing is
+               protected yet -- Day 14 adds [Authorize]. *@
+            <AuthorizeRouteView RouteData="routeData"
+                                DefaultLayout="typeof(Layout.MainLayout)">
+                <Authorizing>
+                    <p>Checking authorization...</p>
+                </Authorizing>
+            </AuthorizeRouteView>
+            <FocusOnNavigate RouteData="routeData" Selector="h1" />
+        </Found>
+    </Router>
+</CascadingAuthenticationState>

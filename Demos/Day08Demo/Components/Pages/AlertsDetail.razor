@@ -1,0 +1,45 @@
+﻿@page "/alerts/1"
+@* @page "/alerts/{productId:int}" *@
+
+<div class="container py-4">
+    <h2>Alert Detail</h2>
+
+    <div class="border p-4 mb-4">
+        <div class="row mb-3">
+            <div class="col-3">
+                <strong>Product</strong>
+            </div>
+            <div class="col">
+                Wireless Mouse
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-3">
+                <strong>Threshold</strong>
+            </div>
+            <div class="col">
+                50
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-3">
+                <strong>Status</strong>
+            </div>
+            <div class="col">
+                Triggered — at or below threshold
+            </div>
+        </div>
+    </div>
+
+    <a href="/alerts" class="btn btn-secondary">
+        Back to alerts
+    </a>
+</div>
+
+
+@code {
+    [Parameter]
+    public int ProjectId { get; set; }
+}

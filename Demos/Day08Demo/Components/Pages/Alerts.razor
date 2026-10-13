@@ -1,0 +1,68 @@
+﻿@page "/alerts"
+
+<div class="container py-4">
+    <h2>Stock Alerts</h2>
+
+    <h5>Active alerts (1 triggered)</h5>
+
+    <div class="border mb-4">
+        <div class="d-flex justify-content-between align-items-center p-3 border-bottom">
+            <a href="/alerts/1">Wireless Mouse (threshold 50)</a>
+
+            <div class="d-flex gap-3">
+                <span class="badge min-badge-wid rounded-pill text-bg-danger p-2">Low stock</span>
+                <button type="button" class="btn btn-outline-danger btn-sm">
+                    Delete
+                </button>
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-between align-items-center p-3">
+            <a href="/alerts/2">Desk Lamp (threshold 50)</a>
+
+            <div class="d-flex gap-3">
+                <span class="badge min-badge-wid rounded-pill text-bg-success p-2">Confirm</span>
+                <button type="button" class="btn btn-outline-danger btn-sm">
+                    Delete
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <h5>Create an alert</h5>
+
+    <div class="border">
+        <div class="d-flex justify-content-between align-items-center p-3 border-bottom">
+            <span>Wireless Mouse</span>
+
+            <button type="button" class="btn btn-outline-primary btn-sm">
+                Alert below 50
+            </button>
+        </div>
+
+        <div class="d-flex justify-content-between align-items-center p-3 border-bottom">
+            <span>USB-C Hub</span>
+
+            <button type="button" class="btn btn-outline-primary btn-sm">
+                Alert below 50
+            </button>
+        </div>
+
+        <div class="d-flex justify-content-between align-items-center p-3">
+            <span>Apple macbook</span>
+
+            <button type="button" class="btn btn-outline-primary btn-sm">
+                Alert below 50
+            </button>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .min-badge-wid {
+        min-width: 5rem;
+
+    }
+
+</style>

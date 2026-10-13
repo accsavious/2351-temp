@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD:bs-demo-starter-04/Day04Demo.Tests/obj/project.nuget.cache
-  "dgSpecHash": "Kib7+3T3RKw=",
+  "dgSpecHash": "3D15hEug0Ek=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\bs-demo-starter-04\\Day04Demo.Tests\\Day04Demo.Tests.csproj",
-=======
-  "dgSpecHash": "Dq1AglyWvZQ=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\bs-demo-starter-04\\Day04Demo.Tests\\Day04Demo.Tests.csproj",
->>>>>>> a85ef22b8f46caea3dcd621213cca9d9176f3bdd:Demos/bs-demo-starter-04/Day04Demo.Tests/obj/project.nuget.cache
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\bs-demo-starter-04\\Day04Demo.Tests\\Day04Demo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\fluxor\\6.0.0\\fluxor.6.0.0.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\fluxor.blazor.web\\6.0.0\\fluxor.blazor.web.6.0.0.nupkg.sha512",
@@ -39,5 +33,15 @@
     "C:\\Users\\Sean\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.2\\xunit.runner.visualstudio.2.8.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\bs-demo-starter-04\\Day04Demo.Tests\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\bs-demo-starter-04\\Day04Demo.Tests\\Day04Demo.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\bs-demo-starter-04\\Day04Demo.Tests\\Day04Demo.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

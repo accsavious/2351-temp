@@ -31,6 +31,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Sean/Documents/School/Nait2026Fall/SDEV2351/2351-temp/Demos/Day08Demo/Components/Pages/Alerts.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBbGVydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sean/Documents/School/Nait2026Fall/SDEV2351/2351-temp/Demos/Day08Demo/Components/Pages/AlertsDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBbGVydHNEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Sean/Documents/School/Nait2026Fall/SDEV2351/2351-temp/Demos/Day08Demo/Components/Pages/Checkout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGVja291dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

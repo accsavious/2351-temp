@@ -1,0 +1,95 @@
+@page
+@model CampusHub.AuthServer.Pages.ActivityModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    @if (!Model.Paused)
+    {
+        <meta http-equiv="refresh" content="3" />
+    }
+    <title>Activity — CampusHub</title>
+    <style>
+        body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+               background: #f4f6f8; margin: 0; padding: 2rem 1rem; color: #1a1a1a; }
+        .card { max-width: 72rem; margin: 0 auto; background: #fff; border-radius: 8px;
+                padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+        h1 { margin: 0 0 .25rem; font-size: 1.5rem; }
+        .sub { color: #555; margin: 0 0 1rem; font-size: .9rem; }
+        .bar { display: flex; gap: .75rem; align-items: center; margin-bottom: 1rem; }
+        .bar a, button { background: #003366; color: #fff; border: 0; border-radius: 4px;
+                         padding: .45rem 1rem; font-size: .9rem; cursor: pointer;
+                         text-decoration: none; }
+        .bar form { margin: 0; }
+        table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+        th, td { text-align: left; padding: .35rem .5rem; border-bottom: 1px solid #e6e8eb;
+                 vertical-align: top; }
+        th { color: #555; font-weight: 600; }
+        td.time, td.source { white-space: nowrap; color: #555; }
+        td.message { font-family: ui-monospace, Consolas, monospace; word-break: break-word; }
+        tr.warning td { background: #fff6e0; }
+        tr.error td { background: #fdeaea; }
+        tr.warning td.message, tr.error td.message { font-weight: 600; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>CampusHub activity</h1>
+        <p class="sub">
+            Each step of the sign-in flow, newest first. A rejected request shows the reason in
+            yellow or red. This page shows the same messages as the console window, and is
+            cleared when the server restarts.
+        </p>
+
+        <div class="bar">
+            @if (Model.Paused)
+            {
+                <a asp-page="/Activity" asp-route-paused="false">Resume auto-refresh</a>
+            }
+            else
+            {
+                <a asp-page="/Activity" asp-route-paused="true">Pause auto-refresh</a>
+            }
+            <form method="post" asp-page-handler="Clear" asp-route-paused="@Model.Paused">
+                <button type="submit">Clear</button>
+            </form>
+        </div>
+
+        @if (Model.Entries.Count == 0)
+        {
+            <p class="sub">Nothing yet. Sign in from your application and the steps appear here.</p>
+        }
+        else
+        {
+            <table>
+                <thead>
+                    <tr><th>Time</th><th>Source</th><th>Message</th></tr>
+                </thead>
+                <tbody>
+                    @foreach (var entry in Model.Entries)
+                    {
+                        // OpenIddict logs a rejected request at Information level, so the level
+                        // alone would leave the most useful line in the list unhighlighted.
+                        var rowClass = entry.Level switch
+                        {
+                            >= LogLevel.Error => "error",
+                            LogLevel.Warning => "warning",
+                            _ when entry.Message.Contains("was rejected because") => "warning",
+                            _ => ""
+                        };
+                        <tr class="@rowClass">
+                            <td class="time">@entry.Time.ToString("HH:mm:ss")</td>
+                            <td class="source">@entry.Source</td>
+                            <td class="message">@entry.Message</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</body>
+</html>

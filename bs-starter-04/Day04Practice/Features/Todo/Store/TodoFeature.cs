@@ -8,8 +8,8 @@ using Fluxor;
 // 3. Override GetInitialState() to return new TodoState()
 //
 // Pattern:
-// public class TodoFeature : Feature<TodoState>
-// {
-//     public override string GetName() => "Todo";
-//     protected override TodoState GetInitialState() => new TodoState();
-// }
+public class TodoFeature : Feature<TodoState>
+{
+    public override string GetName() => "Todo";
+    protected override TodoState GetInitialState() => new TodoState();
+}

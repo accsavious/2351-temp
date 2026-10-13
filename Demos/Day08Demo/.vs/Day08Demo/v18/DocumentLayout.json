@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:features\\cart\\store\\cartpersistenceeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\components\\pages\\alertsdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:components\\pages\\alertsdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\features\\cart\\store\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:features\\cart\\store\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\features\\cart\\store\\cartactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:features\\cart\\store\\cartactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\services\\mockcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:services\\mockcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,7 +43,7 @@
           ]
         },
         {
-          "DockedWidth": 173,
+          "DockedWidth": 257,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -62,60 +54,40 @@
               "RelativeDocumentMoniker": "Features\\Cart\\Store\\CartPersistenceEffects.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartPersistenceEffects.cs",
               "RelativeToolTip": "Features\\Cart\\Store\\CartPersistenceEffects.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwEUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-03T22:37:00.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlertsDetail.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Components\\Pages\\AlertsDetail.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\AlertsDetail.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Components\\Pages\\AlertsDetail.razor",
-              "RelativeToolTip": "Components\\Pages\\AlertsDetail.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-03T21:22:58.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartActions.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartActions.cs",
-              "RelativeDocumentMoniker": "Features\\Cart\\Store\\CartActions.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartActions.cs",
-              "RelativeToolTip": "Features\\Cart\\Store\\CartActions.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAYAAAAeAAAAAAAAAA==",
+              "Title": "MockCartService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Services\\MockCartService.cs",
+              "RelativeDocumentMoniker": "Services\\MockCartService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Services\\MockCartService.cs",
+              "RelativeToolTip": "Services\\MockCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:23:09.555Z",
-              "EditorCaption": ""
-            },
+              "WhenOpened": "2026-10-05T22:41:00.572Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T14:51:55.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Models\\CartItem.cs",
-              "RelativeToolTip": "Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CartState.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartState.cs",
+              "RelativeDocumentMoniker": "Features\\Cart\\Store\\CartState.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartState.cs",
+              "RelativeToolTip": "Features\\Cart\\Store\\CartState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T14:48:34.495Z",
+              "WhenOpened": "2026-10-05T22:41:39.034Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,89 @@
+@page
+@model CampusHub.AuthServer.Pages.LoginModel
+@using CampusHub.AuthServer.Seed
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sign in — CampusHub</title>
+    <style>
+        body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+               background: #f4f6f8; margin: 0; padding: 2rem 1rem; color: #1a1a1a; }
+        .card { max-width: 34rem; margin: 0 auto; background: #fff; border-radius: 8px;
+                padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+        h1 { margin: 0 0 .25rem; font-size: 1.5rem; }
+        .sub { color: #555; margin: 0 0 1.5rem; font-size: .9rem; }
+        label { display: block; margin-bottom: 1rem; font-weight: 600; font-size: .9rem; }
+        input, select { width: 100%; box-sizing: border-box; margin-top: .35rem;
+                        padding: .55rem; border: 1px solid #c3c8ce; border-radius: 4px;
+                        font-size: 1rem; font-weight: 400; }
+        button { background: #003366; color: #fff; border: 0; border-radius: 4px;
+                 padding: .65rem 1.4rem; font-size: 1rem; cursor: pointer; }
+        .error { background: #fdeaea; border-left: 4px solid #b3261e; padding: .75rem;
+                 margin-bottom: 1rem; font-size: .9rem; }
+        table { width: 100%; border-collapse: collapse; font-size: .85rem; margin-top: .5rem; }
+        th, td { text-align: left; padding: .35rem .5rem; border-bottom: 1px solid #e6e8eb; }
+        th { color: #555; font-weight: 600; }
+        details { margin-top: 1.75rem; }
+        summary { cursor: pointer; font-weight: 600; font-size: .9rem; }
+        code { background: #eef1f4; padding: .1rem .3rem; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>CampusHub</h1>
+        <p class="sub">Sign in to continue to the application that sent you here.</p>
+
+        @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+        {
+            <p class="error">@Model.ErrorMessage</p>
+        }
+
+        <form method="post">
+            <label>
+                Email
+                <input type="email" name="Email" id="Email" value="@Model.Email"
+                       autocomplete="username" required />
+            </label>
+            <label>
+                Password
+                <input type="password" name="Password" id="Password"
+                       autocomplete="current-password" required />
+            </label>
+            <button type="submit" id="signin">Sign in</button>
+        </form>
+
+        <details open>
+            <summary>Fixture accounts</summary>
+            <p class="sub" style="margin:.5rem 0 0">
+                Every account below uses the same password:
+                <code>@Fixtures.SharedPassword</code>
+            </p>
+            <table>
+                <thead>
+                    <tr><th>Email</th><th>Roles</th><th>Department</th></tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Fixtures.Users)
+                    {
+                        <tr>
+                            <td><code>@user.Email</code></td>
+                            <td>@(user.Roles.Length == 0 ? "(none)" : string.Join(", ", user.Roles))</td>
+                            <td>@(user.Department ?? "—")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <p class="sub" style="margin:.75rem 0 0">
+                The no-role account is the important one. It is the only way to
+                <em>see</em> that your authorization blocks unauthorized requests, instead of
+                assuming it does because the code looks right.
+            </p>
+        </details>
+    </div>
+</body>
+</html>

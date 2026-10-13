@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 257,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 143,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -63,7 +63,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Shop.razor",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day07Demo\\Components\\Pages\\Shop.razor",
               "RelativeToolTip": "Components\\Pages\\Shop.razor",
-              "ViewState": "AgIAABcAAAAAAAAAAAAUwBgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-21T14:41:54.298Z",
               "EditorCaption": ""

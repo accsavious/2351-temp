@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/6sUF8f2zo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\bs-demo-starter-09\\Day09Demo\\Day09Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im5haXQtZGVtby1rZXktMSJ9.eyJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MzAwLyIsInN1YiI6IjlmM2MxYTdlLTViMjgtNGQ2YS04ZTE0LWMwN2IyZjlkM2E1MSIsImF1ZCI6Imh0dHBzOi8vYXBpLmNhbXB1cy1zdG9yZS5jb20iLCJpYXQiOjE3OTEyMDE2MDAsImV4cCI6MTc5NzUwODgwMCwibmFtZSI6IkphbmUgU21pdGgiLCJlbWFpbCI6ImphbmUuc21pdGhAbmFpdC5jYSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJodHRwczovL2NhbXB1cy1zdG9yZS5jb20vY2xhaW1zL3JvbGVzIjpbIlN0YWZmIiwiSW52ZW50b3J5Il0sImh0dHBzOi8vY2FtcHVzLXN0b3JlLmNvbS9jbGFpbXMvZGVwYXJ0bWVudCI6IlNvZnR3YXJlIERldmVsb3BtZW50IiwiaHR0cHM6Ly9jYW1wdXMtc3RvcmUuY29tL2NsYWltcy9zdHVkZW50X2lkIjoiMjAwNDEyMzQ1In0.SAMPLE_SIGNATURE_NOT_VALID_FOR_VERIFICATION
+
+---
+HOW TO USE THIS FILE
+- Copy ONLY the first line (the encoded token string, above the --- separator) and paste it
+  into the "Encoded" field at jwt.io.
+- This is a teaching token with a placeholder signature. jwt.io shows "Valid JWT" (the format is
+  correct) and "Unable to automatically download public key" in the Signature Verification panel.
+  That is expected. It does not affect the claims you read in the Payload.

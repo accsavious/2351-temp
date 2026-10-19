@@ -1,0 +1,13 @@
+If a page must be authorised
+at the top of the page, use
+@attribute [Authorize]
+
+you can conditionally show/hide content by wrapping it in
+<AuthorizeView></AuthorizeView> tags 
+and
+<Authorized> to render content for authorized users
+</Authorized>
+
+and
+<NotAuthorized> to render content only for unauthorized views
+</NotAuthorized>

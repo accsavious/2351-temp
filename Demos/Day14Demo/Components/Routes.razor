@@ -1,0 +1,32 @@
+<CascadingAuthenticationState>
+    <Router AppAssembly="typeof(Program).Assembly">
+        <Found Context="routeData">
+            @* AuthorizeRouteView, NOT the plain RouteView: in an INTERACTIVE app it is the
+               variant that honours [Authorize] during client-side navigation and renders the
+               Authorizing template below while the auth state resolves. On these statically
+               rendered pages neither happens -- see the next paragraph.
+
+               Notice what is NOT here: nothing in this file redirects an anonymous visitor
+               to the login page. Today's whole subject is protected routes, so it is worth
+               being precise about where that protection actually happens -- and it is not
+               in this component.
+
+               Since .NET 8, [Authorize] on a routable component is ALSO endpoint metadata.
+               These pages are statically rendered (see App.razor), so a request for
+               /dashboard is settled by the authentication pipeline BEFORE any
+               component renders: the authorization middleware sees no session and challenges,
+               the OIDC handler (DefaultChallengeScheme) answers, and the browser gets a
+               302 to the provider. Watch it in DevTools -- the response is
+               a redirect with no HTML body at all. No Blazor component ran.
+
+               That is why [Authorize] is a one-line change with no plumbing to write. *@
+            <AuthorizeRouteView RouteData="routeData"
+                                DefaultLayout="typeof(Layout.MainLayout)">
+                <Authorizing>
+                    <p class="m-3">Checking authorization...</p>
+                </Authorizing>
+            </AuthorizeRouteView>
+            <FocusOnNavigate RouteData="routeData" Selector="h1" />
+        </Found>
+    </Router>
+</CascadingAuthenticationState>

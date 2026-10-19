@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day08demo\\features\\cart\\store\\cartpersistenceeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3CF6F0-6BAE-4D17-8C65-93BF44F7D044}|Day08Demo.csproj|solutionrelative:features\\cart\\store\\cartpersistenceeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,19 +53,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-18T16:03:19.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CartPersistenceEffects.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartPersistenceEffects.cs",
               "RelativeDocumentMoniker": "Features\\Cart\\Store\\CartPersistenceEffects.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartPersistenceEffects.cs",
               "RelativeToolTip": "Features\\Cart\\Store\\CartPersistenceEffects.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCQAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T22:37:00.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-03T22:37:00.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MockCartService.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Services\\MockCartService.cs",
               "RelativeDocumentMoniker": "Services\\MockCartService.cs",
@@ -79,7 +95,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CartState.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day08Demo\\Features\\Cart\\Store\\CartState.cs",
               "RelativeDocumentMoniker": "Features\\Cart\\Store\\CartState.cs",

@@ -1,0 +1,87 @@
+// proton is its own special languge, and is compatable with many languages
+// This isn't quite c# its written in proto, this specifies the version
+syntax = "proto3";
+// the C# namespace for the classes that will be generated from this file
+option csharp_namespace = "CampusStore.Protos";
+// the proto namespace
+package campusstore;
+
+// A product in the capmus store catalogue. Equivalent to a class
+message Product
+{
+	int32 id = 1;
+	string name = 2;
+	string description = 3;
+	double price = 4;
+	// C# StockQuantity 
+	int32 stock_quantity = 5; // Will compile to StockQuantity pascal case style
+
+	ProductCategory category = 6;
+}
+
+enum ProductCategory
+{
+	// by convention the first number must be 0
+	// it means, "not set"
+	PRODUCT_CATEGORY_UNSPECIFIED = 0; // name this UNSPECIFIED
+	ELECTRONICS = 1;
+	BOOKS = 2;
+	SUPPLIES = 3;
+	CLOTHING = 4;
+}
+
+// Request/Response message
+
+message GetProductRequest 
+{
+	// Just requesting product by Id
+	int32 id = 1;
+}
+
+message GetProductResponse
+{
+	// Returns a whole product
+	Product product = 1;
+}
+
+// Input for the ListProducts call
+message ListProductsRequest
+{
+	// holds one product category value
+	ProductCategory category = 1;
+	int32 page_size = 2;
+	string page_token = 3;
+}
+
+message ListProductResponse
+{
+	// repeated: a list of items (zero or more items)
+	repeated Product products = 1;
+	string next_page_token = 2;
+}
+
+service ProductCategory
+{
+	// One request match to one response
+	rpc GetProduct(GetProductRequest) return (GetProductResponse);
+	// list with pagination
+	rpc ListProducts(ListProductsRequest) return (ListProductResponse);
+
+	// server streaming
+	rpc WatchInventory (WatchInventoryRequest) return (stream InventoryUpdate);
+}
+
+// Input for the WatchInventory call
+
+message WatchInventoryRequest
+{
+	int32 product_id = 1;
+}
+
+// this is like a C# class
+message InventoryUpdate
+{
+	int32 product_id = 1;
+	int32 new_quantity = 2;
+	string timestamp = 3;
+}

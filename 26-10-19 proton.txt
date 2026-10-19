@@ -1,0 +1,6 @@
+gRPC 'gRPC Remote Procedure Call'
+what format? protocol buffers, protobuf - binary
+not json
+you define the contract in a .proto file
+
+its contract first, the C# is generated

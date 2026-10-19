@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\",
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\day16practice\\components\\pages\\staffdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|solutionrelative:components\\pages\\staffdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\day16practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day16practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\day16practice\\auth\\departmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day16practice\\components\\pages\\staffdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|solutionrelative:components\\pages\\staffdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day16practice\\auth\\departmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|solutionrelative:auth\\departmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\day16practice\\auth\\reportaccesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\day16practice\\auth\\reportaccesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56236830-6077-4B9F-BDF6-4A54DDB44446}|Day16Practice.csproj|solutionrelative:auth\\reportaccesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,72 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StaffDashboard.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Components\\Pages\\StaffDashboard.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\StaffDashboard.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Components\\Pages\\StaffDashboard.razor",
-              "RelativeToolTip": "Components\\Pages\\StaffDashboard.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T05:49:57.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Components\\Pages\\StaffDashboard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StaffDashboard.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Components\\Pages\\StaffDashboard.razor",
+              "RelativeToolTip": "Components\\Pages\\StaffDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T05:49:57.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DepartmentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Auth\\DepartmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Auth\\DepartmentHandler.cs",
               "RelativeDocumentMoniker": "Auth\\DepartmentHandler.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Auth\\DepartmentHandler.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Auth\\DepartmentHandler.cs",
               "RelativeToolTip": "Auth\\DepartmentHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:47:20.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T05:47:20.057Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ReportAccessHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Auth\\ReportAccessHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Auth\\ReportAccessHandler.cs",
               "RelativeDocumentMoniker": "Auth\\ReportAccessHandler.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Auth\\ReportAccessHandler.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Auth\\ReportAccessHandler.cs",
               "RelativeToolTip": "Auth\\ReportAccessHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:34:38.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T05:34:38.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T05:27:16.028Z",
               "EditorCaption": ""

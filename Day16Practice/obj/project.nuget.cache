@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GcJAoldbTA0=",
+  "dgSpecHash": "fbhNYHckN/s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day16Practice\\Day16Practice.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day16Practice\\Day16Practice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\10.0.11\\microsoft.aspnetcore.authentication.openidconnect.10.0.11.nupkg.sha512",

@@ -1,0 +1,11 @@
+Role based auth
+
+[Authorize(Roles = "Admin")]
+
+options.TokenValidationParameters = new TokenValidationParameter
+{
+	NameClaimType = "name",
+	RoleClaimType = "https://sdev2351.example"
+}
+
+Policy based roles

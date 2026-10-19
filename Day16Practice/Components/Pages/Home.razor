@@ -1,0 +1,42 @@
+@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Campus Store</h1>
+
+<AuthorizeView Roles="Admin">
+    <Authorized>
+        <div class="alert alert-warning">
+            <strong>Admin:</strong>
+            <a href="/dashboard">Dashboard</a> |
+            <a href="/orders">Orders</a>
+        </div>
+    </Authorized>
+</AuthorizeView>
+<AuthorizeView Roles="Manager">
+    <Authorized>
+        <div class="alert alert-info">
+            <strong>Manager:</strong>
+            <a href="/orders">Orders</a>
+        </div>
+    </Authorized>
+</AuthorizeView>
+<AuthorizeView>
+    <Authorized>
+        <p>Welcome back, <strong>@context.User.Identity?.Name</strong>!</p>
+    </Authorized>
+    <NotAuthorized>
+        <div class="alert alert-secondary">
+            <a href="/Account/Login">Log in</a> to access staff tools.
+        </div>
+    </NotAuthorized>
+</AuthorizeView>
+
+<p>Use the navigation menu to explore the different areas of the application.</p>
+
+@* Setup only, not part of today's lesson *@
+<div class="border rounded p-2 small mt-4">
+    <strong>Setup:</strong> sign-in needs the CampusHub AuthServer running on <code class="text-body">https://localhost:7300</code>
+    and the client secret set once, from the folder that holds the <code class="text-body">.csproj</code>:
+    <code class="text-body">dotnet user-secrets set "Oidc:ClientSecret" "day16-secret"</code>
+</div>

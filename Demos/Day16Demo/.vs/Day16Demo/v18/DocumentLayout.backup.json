@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day16demo\\components\\pages\\staffdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|solutionrelative:components\\pages\\staffdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day16demo\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|solutionrelative:components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day16demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day16demo\\components\\auth\\departmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|solutionrelative:components\\auth\\departmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|c:\\users\\sean\\documents\\school\\nait2026fall\\sdev2351\\2351-temp\\demos\\day16demo\\components\\auth\\departmentrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C65450A-5986-4C51-90B5-C8DE6F468051}|Day16Demo.csproj|solutionrelative:components\\auth\\departmentrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Pages\\Products.razor",
+              "RelativeToolTip": "Components\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T15:04:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:59:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Auth\\DepartmentHandler.cs",
+              "RelativeDocumentMoniker": "Components\\Auth\\DepartmentHandler.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Auth\\DepartmentHandler.cs",
+              "RelativeToolTip": "Components\\Auth\\DepartmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:48:48.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Auth\\DepartmentRequirement.cs",
+              "RelativeDocumentMoniker": "Components\\Auth\\DepartmentRequirement.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Auth\\DepartmentRequirement.cs",
+              "RelativeToolTip": "Components\\Auth\\DepartmentRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:42:59.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Pages\\StaffDashboard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StaffDashboard.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Demos\\Day16Demo\\Components\\Pages\\StaffDashboard.razor",
+              "RelativeToolTip": "Components\\Pages\\StaffDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-16T14:34:52.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

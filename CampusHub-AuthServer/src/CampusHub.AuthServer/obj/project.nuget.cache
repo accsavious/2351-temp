@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IO6ofz9d6SA=",
+  "dgSpecHash": "Gp+VBmKH4Cc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\CampusHub-AuthServer\\src\\CampusHub.AuthServer\\CampusHub.AuthServer.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\CampusHub-AuthServer\\src\\CampusHub.AuthServer\\CampusHub.AuthServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.10\\microsoft.data.sqlite.core.10.0.10.nupkg.sha512",

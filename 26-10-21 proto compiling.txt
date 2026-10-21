@@ -1,0 +1,15 @@
+How to set up your program to run your protos
+
+you need a service
+
+in programs
+
+public class ThingService
+
+after builder is defined
+builder.Services.AddGrpc();
+
+app.MapGrpcService<YourService>();
+
+before
+app.Run()

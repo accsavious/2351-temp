@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\demos\\day20demo\\day20demo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|solutionrelative:day20demo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\demos\\day20demo\\day20demo.client\\auth\\demotokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|solutionrelative:day20demo.client\\auth\\demotokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\demos\\day20demo\\day20demo.client\\auth\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|solutionrelative:day20demo.client\\auth\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\demos\\day20demo\\day20demo.client\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|solutionrelative:day20demo.client\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|c:\\users\\sean\\documents\\2026fallnait\\sdev 2351\\2351-temp\\demos\\day20demo\\day20demo.client\\components\\pages\\products.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|Day20Demo.Client\\Day20Demo.Client.csproj|solutionrelative:day20demo.client\\components\\pages\\products.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Auth\\DemoTokenProvider.cs",
+              "RelativeDocumentMoniker": "Day20Demo.Client\\Auth\\DemoTokenProvider.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Auth\\DemoTokenProvider.cs",
+              "RelativeToolTip": "Day20Demo.Client\\Auth\\DemoTokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T15:02:12.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Auth\\ITokenProvider.cs",
+              "RelativeDocumentMoniker": "Day20Demo.Client\\Auth\\ITokenProvider.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Auth\\ITokenProvider.cs",
+              "RelativeToolTip": "Day20Demo.Client\\Auth\\ITokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T15:00:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Components\\Pages\\Products.razor.cs",
+              "RelativeDocumentMoniker": "Day20Demo.Client\\Components\\Pages\\Products.razor.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Components\\Pages\\Products.razor.cs",
+              "RelativeToolTip": "Day20Demo.Client\\Components\\Pages\\Products.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T14:56:55.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Components\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "Day20Demo.Client\\Components\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Components\\Pages\\Products.razor",
+              "RelativeToolTip": "Day20Demo.Client\\Components\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T14:51:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Day20Demo.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Demos\\Day20Demo\\Day20Demo.Client\\Program.cs",
+              "RelativeToolTip": "Day20Demo.Client\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T14:22:19.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Product.razor.cs
+its a codebehind, this is basically an @code{} block
+
+public partial classes?

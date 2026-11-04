@@ -1,0 +1,5 @@
+streaming request response pattern:
+
+client makes single request gets continuous responses
+
+server makes continuous requests, eventually one response

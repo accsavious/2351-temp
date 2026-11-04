@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Day23Practice.Client\\Day23Practice.Client.csproj",
+        "Action": "Start",
+        "DebugTarget": "Day23Practice"
+      },
+      {
+        "Path": "Day23Practice.Server\\Day23Practice.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "Day23Practice"
+      }
+    ]
+  }
+]

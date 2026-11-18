@@ -1,0 +1,4 @@
+OLTP and ACID principles for data integrity
+
+Everything gets saved, or nothing get saved
+Transaction control

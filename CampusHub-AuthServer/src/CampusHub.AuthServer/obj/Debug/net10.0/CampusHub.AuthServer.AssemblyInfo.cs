@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampusHub.AuthServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2369378ed84344e7f32ae2fc8713303348303ea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2689607865df6d3767805e9ff549e82ca7b0c1d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampusHub.AuthServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampusHub.AuthServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

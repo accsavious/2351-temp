@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2AjVuD43bvg=",
+  "dgSpecHash": "nk/4XSCtqrA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026FallNait\\SDEV 2351\\2351-temp\\Day23Practice\\Day23Practice.Server\\Day23Practice.Server.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait2026Fall\\SDEV2351\\2351-temp\\Day23Practice\\Day23Practice.Server\\Day23Practice.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\bysresults\\1.2.3\\bysresults.1.2.3.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\google.protobuf\\3.27.0\\google.protobuf.3.27.0.nupkg.sha512",

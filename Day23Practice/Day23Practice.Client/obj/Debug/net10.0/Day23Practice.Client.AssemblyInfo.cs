@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day23Practice.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dd7660a97089cff0f981b28767c1577ec9bd79f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2689607865df6d3767805e9ff549e82ca7b0c1d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day23Practice.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day23Practice.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
